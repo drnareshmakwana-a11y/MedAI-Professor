@@ -1,0 +1,12 @@
+streamlit
+groq
+langchain
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+chromadb
+pypdf
+sentence-transformers
+gTTS
+streamlit-mic-recorder
+python-dotenv
